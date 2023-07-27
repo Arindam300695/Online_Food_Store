@@ -7,7 +7,7 @@ import { toast } from "react-toastify";
 import { useNavigate } from "react-router-dom";
 
 // base url
-const baseUrl = "http://localhost:8080";
+const baseUrl = "https://online-food-store.onrender.com";
 
 const AddFoodItem = () => {
   const navigate = useNavigate();

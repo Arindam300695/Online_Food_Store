@@ -15,7 +15,7 @@ import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 
 // base url
-const baseUrl = "http://localhost:8080";
+const baseUrl = "https://online-food-store.onrender.com";
 
 const EditFoodItem = () => {
   const navigate = useNavigate();
